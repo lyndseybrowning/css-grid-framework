@@ -1,6 +1,6 @@
-css-framework
+CSS-Framework
 =============
 
-Custom CSS framework 
+Custom CSS framework, with grid integration 
 
-Demo: <a href="lyndseyb.co.uk/plugins/css-framework/" target="_blank"> CSS-Framework </a>
+Demo: <a href="http://www.lyndseyb.co.uk/plugins/css-framework/demo.html" target="_blank"> CSS-Framework </a>
